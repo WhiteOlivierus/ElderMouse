@@ -10,10 +10,10 @@ This is the Elder Mouse. His life started as a normal mouse. But one day he had 
 ## Process
 
 ### Reference
-![Reference](Images\MouseLayingDown.jpg)
+![Reference](\Images\MouseLayingDown.jpg)
 
 ### Reference
-![Reference](Images\MouseLayingDown.jpg)
+![Reference](\Images\MouseLayingDown.jpg)
 
 ## Links
 [Sketchfab](www)
